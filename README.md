@@ -17,7 +17,7 @@ Este repositório tem como objetivo responder às perguntas referentes ao Desafi
 **TURMA DA TARDE:** Segundas e quartas, entre 13:30 e 17:00  
 **TURMA DA NOITE:** Segundas e quartas, entre 18:00 e 21:00
 
-- Tenho preferência pelas aulas das 18:00 às 21:00.
+- Tenho preferência pelas aulas das 13:30 e 17:00.
 
 ---
 
